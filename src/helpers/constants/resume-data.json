@@ -1,0 +1,204 @@
+{
+  "basics": {
+    "name": "Junaid Mugloo",
+    "label": "Backend Developer",
+    "image": "data:image/jpeg;base64,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",
+    "email": "example@example.com",
+    "phone": "+91 1234567890",
+    "url": "www.kashtechsolutions.com",
+    "summary": "I am a web developer having expertise in frontend development and exposure to back- end development. I design and develop web applications using the latest technologies to deliver the product with quality code.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Bengaluru",
+      "countryCode": "",
+      "region": ""
+    },
+    "relExp": "4 years",
+    "totalExp": "6 Years",
+    "objective": "Eager to expand my skill set through external trainings to help boost all major front desk KPIs. Hoping to leverage organizational skills to help ABC Corp introduce time-saving schemes for all executives.",
+    "profiles": [
+      {
+        "network": "linkedin",
+        "username": "sadanandpai",
+        "url": "https://www.linkedin.com/in/sadanandpai/"
+      },
+      {
+        "network": "twitter",
+        "username": "sadanandpai",
+        "url": "https://www.twitter.com/sadanandpai/"
+      },
+      {
+        "network": "github",
+        "username": "sadanandpai",
+        "url": "https://github.com/sadanandpai/"
+      },
+      {
+        "network": "hackerrank",
+        "username": "paicube",
+        "url": "https://www.hackerrank.com/paicube/"
+      },
+      {
+        "network": "hackerearth",
+        "username": "sadanandpai",
+        "url": "https://www.hackerearth.com/sadanandpai/"
+      },
+      {
+        "network": "codechef",
+        "username": "sadanandpai",
+        "url": "https://www.codechef.com/sadanandpai/"
+      },
+      {
+        "network": "leetcode",
+        "username": "paicube",
+        "url": "https://leetcode.com/paicube/"
+      }
+    ]
+  },
+
+  "skills": {
+    "languages": [
+      { "name": "JavaScript", "level": 90 },
+      { "name": "HTML5", "level": 80 },
+      { "name": "CSS", "level": 80 }
+    ],
+    "frameworks": [
+      { "name": "React", "level": 70 },
+      { "name": "Angular", "level": 70 }
+    ],
+    "technologies": [
+      { "name": "Algorithms", "level": 3 },
+      { "name": "Progressive Web Apps", "level": 3 },
+      { "name": "SQL", "level": 3 },
+      { "name": "Data Structures", "level": 3 }
+    ],
+    "libraries": [
+      { "name": "jQuery", "level": 3 },
+      { "name": "Redux", "level": 3 }
+    ],
+    "databases": [{ "name": "Firebase", "level": 3 }],
+    "practices": [
+      { "name": "Component based architecture", "level": 3 },
+      { "name": "Agile methodology", "level": 3 },
+      { "name": "Design Patterns", "level": 3 },
+      { "name": "Test Driven Development", "level": 3 },
+      { "name": "MVC", "level": 3 }
+    ],
+    "tools": [
+      { "name": "Git", "level": 3 },
+      { "name": "VS Code", "level": 3 },
+      { "name": "Jira", "level": 3 },
+      { "name": "Webpack", "level": 3 },
+      { "name": "Eclipse", "level": 3 },
+      { "name": "Bitbucket", "level": 3 }
+    ]
+  },
+
+  "work": [
+    {
+      "id": "1",
+      "name": "Company 1",
+      "position": "Senior Software Developer",
+      "url": "",
+      "startDate": "Apr 2021",
+      "isWorkingHere": true,
+      "endDate": null,
+      "highlights": [
+        "* Worked on a team of 5 developers to develop a web application for a client"
+      ],
+      "summary": "<ul><li> Use my extensive experience with front end development to define the structure and components for the project, making sure they are reusable</li><li>Keep the code quality high reviewing code from other developers and suggesting improvements</li><li> Interact with the designer to suggest changes and to make sure the view he has about the design is translated into actual functionality</li><li> E-commerce maintenance <strong>with Fastcommerce</strong>, a Brazilian e-commerce platform</li></ul>",
+      "years": ""
+    },
+    {
+      "id": "2",
+      "name": "Company 2",
+      "position": "Software Developer",
+      "url": "",
+      "startDate": "Jun 2015",
+      "isWorkingHere": false,
+      "endDate": "Dec 2017",
+      "highlights": [
+        "* Worked on a team of 5 developers to develop a web application for a client"
+      ],
+      "summary": "<ul><li>Develop web applications based on Sharepoint, Drupal 8 and Episerver</li><li>Lead a team of 10 front end developers, giving support to the client's multi-cultural team, providing feedback, clarifying requirements and helping with technical questions</li><li>Keep the Project Manager and the IT Leads updated on the overall progress of the projects and manage the tasks distributed to the team</li><li>Keep the code and the features implemented by the other developers in accordance to the requirements</li></ul>",
+      "years": "2 years"
+    },
+    {
+      "id": "3",
+      "name": "Company 3",
+      "position": "Trainee Developer",
+      "url": "",
+      "startDate": "Aug 2011",
+      "isWorkingHere": false,
+      "endDate": "May 2015",
+      "highlights": [
+        "* Worked on a team of 5 developers to develop a web application for a client"
+      ],
+      "summary": "<ul><li>Design easy user interfaces and great user experiences for the digital platforms of small companies</li><li>Wordpress development, including themes creation or customization, custom plugins development and training</li><li>E-commerce maintenance with Fastcommerce, a Brazilian e-commerce platform</li><li>E-commerce development with Magento, customizing preexisting themes</li><li>Integrate external services such as payment services, delivery, etc into Magento solutions</li></ul>",
+      "years": "4 year"
+    }
+  ],
+
+  "education": [
+    {
+      "id": "1",
+      "institution": "MIT, University",
+      "url": "https://www.mit.edu/",
+      "studyType": "MS",
+      "area": "Cloud technology",
+      "startDate": "2014",
+      "isStudyingHere": false,
+      "endDate": "2016",
+      "score": "68%",
+      "courses": []
+    },
+    {
+      "id": "2",
+      "institution": "NMAMIT, Nitte",
+      "url": "https://www.mit.edu/",
+      "studyType": "B.Tech (VTU)",
+      "area": "Computer Science",
+      "startDate": "2010",
+      "isStudyingHere": false,
+      "endDate": "2014",
+      "score": "8.3 CGPA",
+      "courses": []
+    }
+  ],
+
+  "activities": {
+    "involvements": "<ul><li>Prevented millions of dollars in state sales tax undercharges by initiating tests that revealed a bug in a new release of shopping cart software.</li><li>Isolated previously undiscovered flaw in price checking tool resulting in more competitive pricing and a 20 percent increase in revenue.</li><li>Implemented automated testing tools spawning more diligent levels of regression testing, negative testing, error/bug retests and usability.</li><li>Prevented millions of dollars in state sales tax undercharges by initiating tests that revealed a bug in a new release of shopping cart software.</li></ul>",
+
+    "achievements": "<ul><li>React and redux - A complete guide 2020 from Udemy</li><li>Agile and Scrum Master Certificate from Udacity</li><li>Best performer award for consistently exceeding the performance</li><li>Certificate of exceptional bug finder by XYZ client</li><li>Recognition zero defect delivery</li><li>Best performer award for consistently exceeding the performance</li></ul>"
+  },
+
+  "volunteer": [
+    {
+      "id": "1",
+      "organization": "Company XYZ",
+      "position": "Organizer",
+      "url": "https://xyx.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Organized several hackthons & monthly meetup to improve the community",
+      "highlights": ["Awarded 'Volunteer of the Month'"],
+      "isVolunteeringNow": false
+    }
+  ],
+  "awards": [
+    {
+      "title": "Certificate of exceptional bug finder",
+      "date": "2014-11-01",
+      "awarder": "XYZ client",
+      "summary": "* Recognition zero defect delivery",
+      "id": "1"
+    },
+    {
+      "title": "Certificate of best frontend developer",
+      "date": "2016-11-01",
+      "awarder": "XYZ client",
+      "summary": "Awarded for exceptional improvements made to improve user experience",
+      "id": "1"
+    }
+  ]
+}
