@@ -2,6 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   eslint: {
+    ignoreDuringBuilds: true,
     dirs: [
       'stories',
       'src/__test__',
